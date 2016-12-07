@@ -34,6 +34,11 @@ namespace QL_ChuyenBay
             cn.Close();
         }
 
+        private void btnadd_Click(object sender, EventArgs e)
+        {
+            // TEST FUNCTION WITH GITHUB
+        }
+
 
     }
 }

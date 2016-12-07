@@ -185,6 +185,7 @@
             this.btnadd.TabIndex = 6;
             this.btnadd.Text = "Thêm";
             this.btnadd.UseVisualStyleBackColor = true;
+            this.btnadd.Click += new System.EventHandler(this.btnadd_Click);
             // 
             // btndel
             // 
